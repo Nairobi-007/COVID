@@ -1,4 +1,4 @@
-# COVID
+# PREDICTION OF COVID 19 USING CHEST X-RAY IMAGES
 
 The tests currently being used to detect COVID 19 are very
 accurate and can detect the presence of the novel corona
